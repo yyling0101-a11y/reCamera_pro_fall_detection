@@ -9,8 +9,6 @@
   Your browser does not support HTML5 video.
 </video>
 
-The repository also keeps the original source video in `assets/`. The embedded copy is H.264/AAC for broad browser compatibility.
-
 Native fall detection for **Seeed reCamera Pro (RV1126B, aarch64)**. It runs an INT8 YOLOv8n-Pose RKNN model on-device, tracks people, emits WebSocket alerts, publishes an annotated RTSP stream, and can play an audible alert.
 
 ## Quick start (no build required)
