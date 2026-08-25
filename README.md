@@ -5,7 +5,7 @@
 ## Demo
 
 <video controls preload="metadata" width="800">
-  <source src="https://raw.githubusercontent.com/yyling0101-a11y/reCamera_pro_fall_detection/main/assets/fall-detection-demo.mp4" type="video/mp4">
+  <img src="https://raw.githubusercontent.com/yyling0101-a11y/reCamera_pro_fall_detection/main/assets/fall-detection-demo.gif" alt="Fall detection demo">
   Your browser does not support HTML5 video.
 </video>
 

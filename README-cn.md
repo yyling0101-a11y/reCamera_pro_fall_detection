@@ -5,7 +5,7 @@
 ## 演示视频
 
 <video controls preload="metadata" width="800">
-  <source src="https://raw.githubusercontent.com/yyling0101-a11y/reCamera_pro_fall_detection/main/assets/fall-detection-demo.mp4" type="video/mp4">
+  <img src="https://raw.githubusercontent.com/yyling0101-a11y/reCamera_pro_fall_detection/main/assets/fall-detection-demo.gif" alt="跌倒检测演示">
   您的浏览器不支持 HTML5 视频播放。
 </video>
 
