@@ -4,10 +4,9 @@
 
 ## Demo
 
-<video controls preload="metadata" width="800">
-  <img src="https://raw.githubusercontent.com/yyling0101-a11y/reCamera_pro_fall_detection/main/assets/fall-detection-demo.gif" alt="Fall detection demo">
-  Your browser does not support HTML5 video.
-</video>
+![reCamera Pro Fall Detection Demo](assets/fall-detection-demo.gif)
+
+[▶ Watch the full demo video](assets/fall-detection-demo.mp4)
 
 Native fall detection for **Seeed reCamera Pro (RV1126B, aarch64)**. It runs an INT8 YOLOv8n-Pose RKNN model on-device, tracks people, emits WebSocket alerts, publishes an annotated RTSP stream, and can play an audible alert.
 
