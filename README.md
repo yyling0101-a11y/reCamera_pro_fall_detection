@@ -6,6 +6,8 @@
 
 Watch the reCamera Pro fall-detection demo on [X (Seeed Studio)](https://x.com/seeedstudio/status/2090008818331893808?s=20).
 
+The original video is also included in this repository: [play or download the MP4 demo](assets/291cec2ea643b4adb5de98dfe05751ce.mp4). If your browser does not support the video's HEVC codec, use the X.com link above.
+
 Native fall detection for **Seeed reCamera Pro (RV1126B, aarch64)**. It runs an INT8 YOLOv8n-Pose RKNN model on-device, tracks people, emits WebSocket alerts, publishes an annotated RTSP stream, and can play an audible alert.
 
 ## Quick start (no build required)
