@@ -1,0 +1,21 @@
+# CMake and cross-build output
+/CMakeCache.txt
+/CMakeFiles/
+/build*/
+/cmake_install.cmake
+/Makefile
+*.ninja
+*.ninja_deps
+*.ninja_log
+
+# Locally generated / downloaded artifacts
+/model/*.rknn
+/toolchain/librknnrt.so
+/calibration/coco128/images/
+/calibration/coco128/labels/
+/calibration/check*.onnx
+/output/
+/tools/__pycache__/
+*.pyc
+/bus.jpg
+/CONTEXT.md

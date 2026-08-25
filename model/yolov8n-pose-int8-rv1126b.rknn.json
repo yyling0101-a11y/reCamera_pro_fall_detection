@@ -1,0 +1,24 @@
+{
+  "toolkit_version": "2.3.2",
+  "target_platform": "rv1126b",
+  "source": "/home/yylin/fall_detect/Real-Time-Person-Elderly-Fall-Detection-System/yolov8n-pose.onnx",
+  "source_sha256": "e3bf9143ae5bea8def41ab11748b81256e06df960fa8df7285c2db49a1fbc402",
+  "output": "/home/yylin/fall_detect/Real-Time-Person-Elderly-Fall-Detection-System/recamera_fall_detection/model/yolov8n-pose-int8-rv1126b.rknn",
+  "output_sha256": "60c2a07e5c4e8912c4409bb28289f4aa8052fcfbd91ae8072776c140a99d0d82",
+  "quantized": true,
+  "dataset": "/home/yylin/fall_detect/Real-Time-Person-Elderly-Fall-Detection-System/recamera_fall_detection/calibration/dataset.txt",
+  "mean": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "std": [
+    255.0,
+    255.0,
+    255.0
+  ],
+  "input_name": null,
+  "input_size": null,
+  "confidence_output_scale": 640.0,
+  "confidence_output_channels": [4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49, 52, 55]
+}
