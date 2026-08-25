@@ -2,6 +2,10 @@
 
 [English documentation](README.md)
 
+## 演示视频
+
+点击观看 [X（Seeed Studio）上的 reCamera Pro 跌倒检测演示视频](https://x.com/seeedstudio/status/2090008818331893808?s=20)。GitHub README 无法直接嵌入 X.com 播放器，点击链接即可跳转观看。
+
 这是面向 Seeed reCamera Pro（RV1126B / aarch64）的原生跌倒检测程序。程序在设备端运行 YOLOv8n-Pose RKNN 模型，跟踪人体姿态并在确认跌倒后通过 WebSocket 推送 JSON 告警、提供带骨架和状态标识的 RTSP 预览流，并可播放设备端提示音。
 
 ## 快速开始（无需编译）
